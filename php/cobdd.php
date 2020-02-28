@@ -6,7 +6,7 @@ error_reporting(-1);
   $host_name = 'db5000270218.hosting-data.io';
   $database = 'dbs263761';
   $user_name = 'dbu40481';
-  $password = 'Latokliten1.';
+  $password = 
   
 
   try {
